@@ -1,3 +1,5 @@
+//Copyright 2023 Wilhelm Payne
+
 #include <stdio.h>
 //This is a segfault app
 int main() {
