@@ -1,5 +1,5 @@
 //Copyright 2023 Wilhelm Payne
-
+//BSD 3-Clause Licensed.  See LICENSE file.
 #include <stdio.h>
 //This is a segfault app
 int main() {
